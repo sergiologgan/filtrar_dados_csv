@@ -39,8 +39,8 @@ def filtrar_valores_transacoes(arquivo_entrada, arquivo_saida, valor_minimo):
 
 
 #-------------------<Entradas e Saídas>
-caminhoEntradaCSV = r'C:\Users\sserg\OneDrive\Área de Trabalho\Delfia\Processamento de dados\transacoes.csv'
-caminhoSaidaCSV = r'C:\Users\sserg\OneDrive\Área de Trabalho\Delfia\Processamento de dados\transacoes_altas.csv'
+caminhoEntradaCSV = 'transacoes.csv'
+caminhoSaidaCSV = 'transacoes_altas.csv'
 
 """
 arquivo_entrada -> CSV de entrada
