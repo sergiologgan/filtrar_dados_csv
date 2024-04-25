@@ -10,7 +10,7 @@ Para executar este script, você precisará de:
 ## Configuração
 1. Clone o repositório para sua máquina local usando:
    ```python
-   git clone URL_DO_REPOSITORIO
+   git clone https://github.com/sergiologgan/filtrar_dados_csv.git
    ```
 2. Navegue até o diretório do projeto.
 
