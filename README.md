@@ -19,7 +19,7 @@ Antes de executar o script, certifique-se de que o caminho para os arquivos CSV 
 
 Execute o script com o seguinte comando:
 ```python
-python nome_do_arquivo.py
+python filtrar_transacoes.py
 ```
 Substitua `nome_do_arquivo.py` pelo nome real do arquivo Python.
 
