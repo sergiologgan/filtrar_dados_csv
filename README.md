@@ -9,7 +9,7 @@ Para executar este script, você precisará de:
 
 ## Configuração
 1. Clone o repositório para sua máquina local usando:
-   ```
+   ```python
    git clone URL_DO_REPOSITORIO
    ```
 2. Navegue até o diretório do projeto.
@@ -18,7 +18,7 @@ Para executar este script, você precisará de:
 Antes de executar o script, certifique-se de que o caminho para os arquivos CSV de entrada e saída estão corretamente definidos nas variáveis `caminhoEntradaCSV` e `caminhoSaidaCSV`.
 
 Execute o script com o seguinte comando:
-```
+```python
 python nome_do_arquivo.py
 ```
 Substitua `nome_do_arquivo.py` pelo nome real do arquivo Python.
