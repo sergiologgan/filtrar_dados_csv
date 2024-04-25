@@ -21,7 +21,6 @@ Execute o script com o seguinte comando:
 ```python
 python filtrar_transacoes.py
 ```
-Substitua `nome_do_arquivo.py` pelo nome real do arquivo Python.
 
 ## Funcionamento
 O script faz o seguinte:
