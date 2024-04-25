@@ -10,7 +10,7 @@ Para executar este script, você precisará de:
 ## Configuração
 1. Clone o repositório para sua máquina local usando:
    ```
-   git clone URL_DO_SEU_REPOSITORIO
+   git clone URL_DO_REPOSITORIO
    ```
 2. Navegue até o diretório do projeto.
 
