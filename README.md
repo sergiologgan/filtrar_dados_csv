@@ -31,4 +31,4 @@ O script faz o seguinte:
 - Registra erros relacionados à leitura e processamento de dados no arquivo `error_log.txt`.
 
 ## Licença
-Informe aqui o tipo de licença sob o qual o projeto está disponibilizado, por exemplo, MIT.
+MIT
